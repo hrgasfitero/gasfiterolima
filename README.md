@@ -11,8 +11,6 @@
     <h1>HrGasfitero: Tu Solución Confiable si Buscas un <a href="http://hrgasfitero.org.pe/" rel="dofollow">Gasfitero en Lima</a></h1>
   </header>
 
-  <main>
-    <section>
       <h2>¿Por qué confiar en HrGasfitero si necesitas un <a href="http://hrgasfitero.org.pe/" rel="dofollow">gasfitero en Lima</a>?</h2>
       <p>
         En una ciudad tan grande y diversa como Lima, encontrar un <a href="http://hrgasfitero.org.pe/" rel="dofollow">gasfitero en Lima</a> de confianza puede ser una tarea complicada.
@@ -54,8 +52,6 @@
         Nuestro nombre ya es sinónimo de confianza en toda Lima, y seguimos creciendo gracias a las recomendaciones de nuestros clientes satisfechos.
         Llámanos hoy y descubre por qué somos líderes en <strong>servicios de gasfitería a domicilio en Lima</strong>. Con HrGasfitero, el buen servicio está garantizado.
       </p>
-    </section>
-  </main>
 
   <footer>
     <p>© 2025 HrGasfitero - Todos los derechos reservados</p>
