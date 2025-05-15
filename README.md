@@ -28,7 +28,6 @@
       <p>
         Por eso, cuando necesites un <a href="http://hrgasfitero.org.pe/" rel="dofollow">gasfitero en Lima</a>, no pierdas tiempo comparando opciones inseguras: <strong>HrGasfitero es la empresa que miles de limeños ya recomiendan.</strong>
       </p>
-    </section>
 
   
       <h2>Servicio de Gasfitería a Domicilio en Lima: Rápido, Eficiente y Seguro</h2>
